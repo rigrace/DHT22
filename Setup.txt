@@ -1,0 +1,14 @@
+Setup of DHT22 on rpi os
+#from https://docs.circuitpython.org/projects/dht/en/latest/index.html
+#setup pip
+SOMTHING HERE!!
+
+#Install circuit-python for dht
+pip3 install adafruit-circuitpython-dht
+
+#Install libgpiod
+In synaptic search for libgpiod (recently latest libgpiod2)
+install from synaptic, or terminal
+
+
+
